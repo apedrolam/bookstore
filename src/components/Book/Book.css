@@ -1,0 +1,14 @@
+.list-book-item {
+    list-style: none;
+    border-top: 1px solid #222;
+    border-bottom: 1px solid #222;
+    padding: 10px 20px;
+}
+
+.list-book-item:first-child {
+    border-top: 2px solid #222;
+}
+
+.list-book-item:last-child {
+    border-bottom: 2px solid #222;
+}

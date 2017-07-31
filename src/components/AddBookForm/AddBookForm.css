@@ -1,0 +1,9 @@
+input, select {
+    width: 150px;
+    display: block;
+}
+
+.add-book-form {
+    float: left;
+    margin-right: 10px;
+}
